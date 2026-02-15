@@ -1,4 +1,5 @@
-This is the file from AWS vm
+This is the file from AWS 
 
+a = int(input("Please enter your number here: "))
 
-dear developer i have reviewed your code please change it accordingly
+Dear sir now please review my code
